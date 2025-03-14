@@ -21,4 +21,4 @@ To run this game locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/SnakeGame.git
+   git clone https://github.com/farooqueee/SnakeGame.git
