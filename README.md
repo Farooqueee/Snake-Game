@@ -4,7 +4,7 @@ A fun and interactive Snake game built with HTML, CSS, and JavaScript. The game 
 
 ## Demo
 
-Play the game live here: [https://farooqueee.github.io/snake-game/] (https://farooqueee.github.io/snake-game/).
+Play the game live here: [https://farooqueee.github.io/snake-game/](https://farooqueee.github.io/snake-game/).
 
 ## Features
 
